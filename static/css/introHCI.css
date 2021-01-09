@@ -32,3 +32,13 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.thumbnail {
+     width: 550px;
+     height: 350px;
+}
+
+.project {
+     margin-left: 20px;
+     margin-bottom: 60px;
+}
